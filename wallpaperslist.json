@@ -1,5 +1,5 @@
 [{
-		"name": "Webp Image",
+		"name": "Image1",
 		"author": "unknown",
 		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS1-min.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS1-min.jpg",
@@ -8,12 +8,66 @@
 		"collections": "Abstract"
 	},
  {
-	 	"name": "Webp Image2",
+	 	"name": "Image2",
 		"author": "unknown",
 		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS2-min.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS2-min.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "AAAA",
+		"collections": "Abstract"
+	},
+  {
+	 	"name": "Image3",
+		"author": "unknown",
+		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS3-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS3-min.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "Abstract"
+	},
+  {
+	 	"name": "Image4",
+		"author": "unknown",
+		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS4-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS4-min.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "Abstract"
+	},
+  {
+	 	"name": "Image5",
+		"author": "unknown",
+		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS5-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS5-min.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "Abstract"
+	},
+  {
+	 	"name": "Image6",
+		"author": "unknown",
+		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS6-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS6-min.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "Abstract"
+	},
+  {
+	 	"name": "Image7",
+		"author": "unknown",
+		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS7-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS7-min.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "Abstract"
+	},
+  {
+	 	"name": "Image8",
+		"author": "unknown",
+		"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS8-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS8-min.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "Abstract"
 	}
 ]
