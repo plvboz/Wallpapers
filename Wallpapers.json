@@ -1,0 +1,28 @@
+[
+  {
+    "info": {
+      "Title": "Wallpapers",
+      "Api Link": "https://github.com/plvboz/Wallpapers",
+      "Wallpapers Link": "https://github.com/plvboz/Wallpapers",
+      "Created by": "D E E P A L   P A L L A V   S U T H A R",
+      "Imagecount": "2"
+    }
+  },
+  {
+    "name": "Wallpaper 1",
+		"author": "DPS",
+		"url": "https://github.com/plvboz/Wallpapers/blob/main/Abstract/DPS1-min.jpg",
+		"thumbnail": "https://github.com/plvboz/Wallpapers/blob/main/Abstract/DPS1-min.jpg",
+		"dimensions": "3000x1500",
+		"copyright": "Free (do whatever you want)",
+		"collections": "Abstract",
+    "downloadable": 1,
+    "size": 533,
+		"featured": true
+  },
+  {
+    "name": "Shot on Pixel 9",
+    "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/shot-on-pixel/9.jpg",
+    "collections": "Shot on Pixel"
+  }
+]
