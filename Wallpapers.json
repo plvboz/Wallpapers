@@ -1,12 +1,12 @@
 [
-  {
-    	"name": "Wallpaper 1",
-	"url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS1-min.jpg",
-	"collections": "Abstract",
-  },
-  {
-    "name": "Shot on Pixel 9",
-    "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/shot-on-pixel/9.jpg",
-    "collections": "Shot on Pixel"
+ {
+  "name": "Wallpaper 1",
+  "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS1-min.jpg",
+  "collections": "Abstract",
+ },
+ {
+  "name": "Shot on Pixel 9",
+  "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/shot-on-pixel/9.jpg",
+  "collections": "Shot on Pixel"
   }
 ]
