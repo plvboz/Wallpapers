@@ -16,6 +16,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/DPS2-min.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "AAAA"
+		"collections": "AAAA",
+	 	"featured": true
 	}
 ]
