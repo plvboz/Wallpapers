@@ -1,2 +1,2 @@
-# Wallpapers
-### Repository and files for the wallpapers in [wallpapers app](https://github.com/plvboz).
+# WallEx
+### Repository and files for the wallpapers in [wallEx app](https://github.com/plvboz).
