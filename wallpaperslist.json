@@ -1,5 +1,227 @@
 [
         {
+            "name": "Stefan Stefancik",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Travel/pexels-stefan-stefancik-42151-min.jpg",
+            "collections": "Travel",
+            "copyright": "PEXELS.com/@stefanstefancik"
+        },
+        {
+            "name": "This Is Engineering",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Misc/pexels-thisisengineering-3913025-min.jpg",
+            "collections": "Misc",
+            "copyright": "PEXELS.com/@thisisengineering"
+        },
+        {
+            "name": "Tom Swinnen",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Misc/pexels-tom-swinnen-1309766-min.jpg",
+            "collections": "Misc",
+            "copyright": "PEXELS.com/@shottrotter"
+        },
+        {
+            "name": "Jonas Ferlin",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Misc/pexels-jonas-ferlin-1938032-min.jpg",
+            "collections": "Misc",
+            "copyright": "PEXELS.com/@jonas"
+        },
+        {
+            "name": "Marek Piwnicki",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Landscapes/marek-piwnicki-QLQWFgTiysc-unsplash-min.jpg",
+            "collections": "Landscapes",
+            "copyright": "UNSPLASH.com/@marekpiwnicki"
+        },
+        {
+            "name": "Kier In Sight",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Landscapes/kier-in-sight-W1SAgPzAWXM-unsplash-min.jpg",
+            "collections": "Landscapes",
+            "copyright": "UNSPLASH.com/@kierinsight"
+        },
+        {
+            "name": "Radu Chelariu",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Astro/radu-chelariu-B-WTxrGbMts-unsplash-min.jpg",
+            "collections": "Astro",
+            "copyright": "UNSPLASH.com/@raadoo"
+        },
+        {
+            "name": "Radu Chelariu",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Astro/radu-chelariu-H0ww1CekYLs-unsplash-min.jpg",
+            "collections": "Astro",
+            "copyright": "UNSPLASH.com/@raadoo"
+        },
+        {
+            "name": "Radu Chelariu",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Astro/radu-chelariu-1PUiwo-Sbx8-unsplash-min.jpg",
+            "collections": "Astro",
+            "copyright": "UNSPLASH.com/@raadoo"
+        },
+        {
+            "name": "Eberhard Grossgasteiger",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Artistic/pexels-eberhard-grossgasteiger-2086361-min.jpg",
+            "collections": "Artistic",
+            "copyright": "PEXELS.com/@eberhardgross"
+        },
+        {
+            "name": "Mayer Tawfik",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Architecture/mayer-tawfik-_Mybz6x2Ze4-unsplash-min.jpg",
+            "collections": "Architecture",
+            "copyright": "UNSPLASH.com/@mayertawfik"
+        },
+        {
+            "name": "Abhishek Tiwari",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Architecture/abhishek-tiwari-nN66UEBDP2A-unsplash-min.jpg",
+            "collections": "Architecture",
+            "copyright": "UNSPLASH.com/@abhi_2410"
+        },
+        {
+            "name": "Clark Van Der Beken",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Architecture/clark-van-der-beken-Wj7Ci56a8gQ-unsplash-min.jpg",
+            "collections": "Architecture",
+            "copyright": "UNSPLASH.com/@snapsbyclark"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa-r0lYekmCf4E-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa-cOSfVyxCSng-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa--71m_qQMQMs-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa-4fYCXIMpt_Y-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa-4fYCXIMpt_Y4-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa-4fYCXIMpt_Y3-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Solen Feyissa",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/solen-feyissa-4fYCXIMpt_Y2-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@solenfeyissa"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-Y8Y_s90SK3A-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-VSu6X0Y986o-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-VSu6X0Y986o2-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-sQag8O3j2bc-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-sQag8O3j2bc2-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-rLPoOg2qVko-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-rLPoOg2qVko4-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-rLPoOg2qVko3-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-rLPoOg2qVko2-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-R_ibevUfKUM-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-MdRQeDHUcSk-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-DFdR4N_Ll48-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Pawel Czerwinski",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/pawel-czerwinski-8jg1bvq4E7g-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@pawel_czerwinski"
+        },
+        {
+            "name": "Marek Piwnicki",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/marek-piwnicki-zetUhDVYejc-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@marekpiwnicki"
+        },
+        {
+            "name": "Marek Piwnicki",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/marek-piwnicki-RNSsgnkW5SU2-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@marekpiwnicki"
+        },
+        {
+            "name": "Marek Piwnicki",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/marek-piwnicki-I8yvFSlT85E-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@marekpiwnicki"
+        },
+        {
+            "name": "Marek Piwnicki",
+            "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Abstract/marek-piwnicki-86LBKxaQP7Y-unsplash-min.jpg",
+            "collections": "Abstract",
+            "copyright": "UNSPLASH.com/@marekpiwnicki"
+        },
+        {
             "name": "Yan Stavchansky",
             "url": "https://raw.githubusercontent.com/plvboz/Wallpapers/main/Travel/pexels-yan-stavchansky-4571307-min.jpg",
             "collections": "Travel",
